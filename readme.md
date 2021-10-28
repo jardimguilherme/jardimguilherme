@@ -15,7 +15,7 @@ I speak Portuguese, English, Spanish, and a little French!
 
 ### About Me:
 - 🔭 I am a software engineering undergraduate with interest in pursuing postgraduate diplomas
-- 🌱 I’m currently learning Vue.JS and improving Python skills (leetcode FTW!)
+- 🌱 I am currently learning Vue.JS and improving Python skills (leetcode FTW!)
 - 📫 How to reach me: <guilherme@manancial.net>, [LinkedIn](https://www.linkedin.com/in/guilhermesjardim/)
 - 😄 Pronouns: He/Him
 
