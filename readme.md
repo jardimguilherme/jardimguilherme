@@ -1,25 +1,23 @@
 
 ## Hi there 👋
 
-### My name is Gabriel and I'm currently based in Brazil!
+### My name is Guilherme and I am based in Brazil!
 
-I speak English, Portuguese and I'm currently learning French and Korean!
+I speak Portuguese, English, Spanish, and a little French!
 
 ### Languages:
-- Python
 - JavaScript
-- C#
-- Rust
 - Java
+- Python
+- C/C++
 
 ---
 
 ### About Me:
-- 🔭 I’m currently working on Fakenews Recognition with BART and [Spotify Stats](https://github.com/GabrielBG0/Spotify-Stats.js)
-- 🌱 I’m currently learning Rust
-- 📫 How to reach me: <gabriel.bgs00@gmail.com>, [LinkedIn](https://www.linkedin.com/in/gabrielbgutierrez/)
+- 🔭 I am a software engineering undergraduate with interest in pursuing postgraduate diplomas
+- 🌱 I’m currently learning Vue.JS and improving Python skills (leetcode FTW!)
+- 📫 How to reach me: <guilherme@manancial.net>, [LinkedIn](https://www.linkedin.com/in/guilhermesjardim/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm Color Blind ✖🟩🟥✖
 
 ---
 
@@ -27,6 +25,6 @@ I speak English, Portuguese and I'm currently learning French and Korean!
   </br>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBG0&theme=tokyonight&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jardimguilherme&theme=tokyonight&show_icons=true)
 
 </details>
