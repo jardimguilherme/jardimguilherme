@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-### My name is Guilherme and I am based in Brazil!
+### My name is Guilherme and I am currently based in Brazil!
 
 I speak Portuguese, English, Spanish, and a little French!
 
