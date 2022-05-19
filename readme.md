@@ -7,7 +7,7 @@ I speak Portuguese, English, Spanish, and a little French!
 ---
 
 ### About Me:
-- 🔭 I am currently pursuing a Master's Degree in Computer Science/Software Engineering
+- 🏃‍♂️ I am currently pursuing a Master's Degree in Computer Science/Software Engineering
 - 🎓 Got my Undergrad Degreee in Software Engineering in Dec/21
 - 🌱 Currently learning Python (leetcode FTW!)
 - 📫 Reach me out at: 
