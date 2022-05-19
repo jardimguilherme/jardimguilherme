@@ -6,7 +6,7 @@ I speak Portuguese, English, Spanish, and a little French!
 
 ---
 
-### About Me:
+### 👨‍💻 About Me:
 - 🏃‍♂️ I am currently pursuing a Master's Degree in Computer Science/Software Engineering
 - 🎓 Got my Undergrad Degreee in Software Engineering in Dec/21
 - 🌱 Currently learning Python (leetcode FTW!)
@@ -17,7 +17,7 @@ I speak Portuguese, English, Spanish, and a little French!
 
 ---
 
-### Languages:
+### 💻 Languages:
 - JavaScript
 - Java
 - C/C++
@@ -25,10 +25,6 @@ I speak Portuguese, English, Spanish, and a little French!
 
 ---
 
-<details>
-  </br>
-  <summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats<br>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jardimguilherme&theme=tokyonight&show_icons=true)
-
-</details>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jardimguilherme&theme=tokyonight&show_icons=true)
