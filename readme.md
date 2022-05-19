@@ -1,6 +1,5 @@
 
 ## Hi there 👋
-
 ### My name is Guilherme and I am currently based in Campinas, SP!
 
 I speak Portuguese, English, Spanish, and a little French!
@@ -8,9 +7,12 @@ I speak Portuguese, English, Spanish, and a little French!
 ---
 
 ### About Me:
-- 🔭 I am a computer science/software engineering masters student
-- 🌱 I am currently learning Python (leetcode FTW!)
-- 📫 How to reach me: <guilherme@manancial.net>, [LinkedIn](https://www.linkedin.com/in/guilhermesjardim/)
+- 🔭 I am currently pursuing a Master's Degree in Computer Science/Software Engineering
+- 🎓 Got my Undergrad Degreee in Software Engineering in Dec/21
+- 🌱 Currently learning Python (leetcode FTW!)
+- 📫 Reach me out at: 
+  - 📧 <guilherme@manancial.net>;
+  - 🌐 [LinkedIn](https://www.linkedin.com/in/guilhermesjardim/)
 - 😄 Pronouns: He/Him
 
 ---
@@ -19,6 +21,7 @@ I speak Portuguese, English, Spanish, and a little French!
 - JavaScript
 - Java
 - C/C++
+- Assembly x86
 
 ---
 
