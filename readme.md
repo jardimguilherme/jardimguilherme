@@ -20,6 +20,7 @@ I speak Portuguese, English, Spanish, and a little French!
 ### 💻 Languages:
 - JavaScript
 - Java
+- Python
 - C/C++
 - Assembly x86
 
