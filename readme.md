@@ -7,9 +7,9 @@ I speak Portuguese, English, Spanish, and a little French!
 ---
 
 ### 👨‍💻 About Me:
-- 🏃‍♂️ Pursuing a Master's Degree in Computer Science/Software Engineering
-- 🎓 Bachelor's Degree in Software Engineering
-- 💼 Working as a data analyst for Azul Linhas Aéreas
+- 🏃‍♂️ Pursuing a master's degree in computer science/software engineering
+- 🎓 Bachelor's degree in software engineering
+- 💼 Data analyst at Azul Linhas Aéreas
 - 📫 Reach me out at: 
   - 📧 <guilherme@manancial.net>;
   - 🌐 [LinkedIn](https://www.linkedin.com/in/guilhermesjardim/)
